@@ -25,13 +25,29 @@
 
 - ⚡ Fun fact **"I'm a data enthusiast who loves finding patterns in chaos and turning data into stories. When I'm not analyzing numbers, you can find me exploring new coffee blends or getting lost in a good book."**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/@ahaan-the-scripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ahaan-the-scripter" height="30" width="40" /></a>
+<a href="https://dev.to/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codehub01" height="30" width="40" /></a>
 <a href="https://twitter.com/ahaan010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahaan010" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/modassir-ali-a051b1229?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bspuqueazre%2by9nk1mqyiyw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/modassir-ali-a051b1229?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bspuqueazre%2by9nk1mqyiyw%3d%3d" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codehub01" height="30" width="40" /></a>
+<a href="https://codesandbox.com/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codehub01" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahaan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahaan01" height="30" width="40" /></a>
+<a href="https://dribbble.com/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="codehub01" height="30" width="40" /></a>
+<a href="https://www.behance.net/ahaanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahaanr" height="30" width="40" /></a>
+<a href="https://hashnode.com/@codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@codehub01" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/codehub01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codehub01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codehub01" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/raazlaptop001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raazlaptop001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codehub001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codehub001" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@raazlaptop001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@raazlaptop001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codehub01" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="codehub01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
