@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@ahaan-the-scripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ahaan-the-scripter" height="30" width="40" /></a>
+<a href="https://codepen.io/ahaan-the-scripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahaan-the-scripter" height="30" width="40" /></a>
 <a href="https://dev.to/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codehub01" height="30" width="40" /></a>
 <a href="https://twitter.com/ahaan010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahaan010" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codehub01" height="30" width="40" /></a>
