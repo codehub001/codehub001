@@ -17,11 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/codehub001](https://github.com/codehub001)
 
+- 📝 I regularly write articles on [https://hashnode.com/@codehub01](https://hashnode.com/@codehub01)
+
 - 💬 Ask me about **Data Analysis Techniques, Machine Learning Algorithms, Deep Learning Architectures,Big Data Technologies,AI/ML Model Deployment, Data Visualization,Feature Engineering, Natural Language Processing (NLP), Reinforcement Learning, Cloud Computing for Data Science**
 
 - 📫 How to reach me **modassirali66@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/modassir-ali-a051b1229/](https://www.linkedin.com/in/modassir-ali-a051b1229/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/codehub01/](https://www.linkedin.com/in/codehub01/)
 
 - ⚡ Fun fact **"I'm a data enthusiast who loves finding patterns in chaos and turning data into stories. When I'm not analyzing numbers, you can find me exploring new coffee blends or getting lost in a good book."**
 
@@ -34,7 +36,7 @@
 <a href="https://codepen.io/@ahaan-the-scripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ahaan-the-scripter" height="30" width="40" /></a>
 <a href="https://dev.to/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codehub01" height="30" width="40" /></a>
 <a href="https://twitter.com/ahaan010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahaan010" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/modassir-ali-a051b1229?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bspuqueazre%2by9nk1mqyiyw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/modassir-ali-a051b1229?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bspuqueazre%2by9nk1mqyiyw%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/codehub01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/codehub01/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codehub01" height="30" width="40" /></a>
 <a href="https://codesandbox.com/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codehub01" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahaan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahaan01" height="30" width="40" /></a>
