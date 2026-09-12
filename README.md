@@ -9,24 +9,11 @@
 <br>
 <br>
 
-<p>
-  <a href="https://github.com/codehub001">
-    <img src="https://img.shields.io/badge/GitHub-codehub001-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/codehub01/">
-    <img src="https://img.shields.io/badge/LinkedIn-codehub01-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://hashnode.com/@codehub01">
-    <img src="https://img.shields.io/badge/Hashnode-codehub01-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" />
-  </a>
-  <a href="mailto:modassirali66@gmail.com">
-    <img src="https://img.shields.io/badge/Email-modassirali66-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/codehub001">
-    <img src="https://komarev.com/ghpvc/?username=codehub001&style=flat-square&label=Profile+Views&color=0891b2" alt="Profile views" />
-  </a>
-</p>
-<img src="https://github.com/user-attachments/assets/5dabc907-dc61-42e0-b0d8-c2f5892dfe05" width="180"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=flat-square&logo=vercel&logoColor=white)](https://modassirali.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-codehub001-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codehub001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-codehub01-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codehub01/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-codehub01-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@codehub01)
+[![Email](https://img.shields.io/badge/Email-modassirali66-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:modassirali66@gmail.com)
 
 </div>
 
