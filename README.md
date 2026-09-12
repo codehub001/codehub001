@@ -1,62 +1,144 @@
-<h1 align="center">Hello Geeks👋,I'm Modassir Ali</h1>
-<h3 align="center">A passionate Data Science Engineer, I excel in translating complex data into strategic insights and actionable solutions. My expertise spans data analysis, machine learning, and deep learning, enabling me to tackle intricate problems and drive innovation. I am committed to harnessing advanced technologies to create models and solutions that empower decision-making and enhance operational efficiency. Driven by curiosity and a dedication to continuous improvement, I strive to push the boundaries of data science and contribute meaningfully to impactful projects."</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codehub001&label=Profile%20views&color=0e75b6&style=flat" alt="codehub001" /> </p>
+### Hi Folks, I'm Modassir Ali
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codehub001" alt="codehub001" /></a> </p>
+### AI Engineer • Machine Learning & Deep Learning
 
-<p align="left"> <a href="https://twitter.com/ahaan010" target="blank"><img src="https://img.shields.io/twitter/follow/ahaan010?logo=twitter&style=for-the-badge" alt="ahaan010" /></a> </p>
+<sub>Building practical ML systems • Data Analytics • Deep Learning • MLOps • Python</sub>
 
-- 🔭 I’m currently working on [Face Recognition with ML](https://github.com/codehub001/Face-Recognition-using-ML-And-Deeplearning-)
+<br>
+<br>
 
-- 🌱 I’m currently learning **CRISP-DM ,SEMMA ,OSEM,TDSP(Team Data Science Process),DataOps**
+<p>
+  <a href="https://github.com/codehub001">
+    <img src="https://img.shields.io/badge/GitHub-codehub001-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/codehub01/">
+    <img src="https://img.shields.io/badge/LinkedIn-codehub01-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://hashnode.com/@codehub01">
+    <img src="https://img.shields.io/badge/Hashnode-codehub01-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+  <a href="mailto:modassirali66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-modassirali66-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/codehub001">
+    <img src="https://komarev.com/ghpvc/?username=codehub001&style=flat-square&label=Profile+Views&color=0891b2" alt="Profile views" />
+  </a>
+</p>
+<img src="https://github.com/user-attachments/assets/5dabc907-dc61-42e0-b0d8-c2f5892dfe05" width="180"/>
 
-- 👯 I’m looking to collaborate on **AIML, Data analyst, ML**
+</div>
 
-- 🤝 I’m currently challenging to solve Dsa Problem [DSA challenge Sheet](https://github.com/codehub001/CrackYourInternship)
 
-- 👨‍💻 All of my projects are available at [https://github.com/codehub001](https://github.com/codehub001)
+### About Me
 
-- 📝 I regularly write articles on [https://hashnode.com/@codehub01](https://hashnode.com/@codehub01)
+I'm an AI Engineer focused on building *practical machine learning systems* and turning raw data into clear, useful decisions. I work across the full pipeline: analysis, feature engineering, model training, evaluation, deployment, and continuous improvement.
 
-- 💬 Ask me about **Data Analysis Techniques, Machine Learning Algorithms, Deep Learning Architectures,Big Data Technologies,AI/ML Model Deployment, Data Visualization,Feature Engineering, Natural Language Processing (NLP), Reinforcement Learning, Cloud Computing for Data Science**
+I care about models that work beyond notebooks — clean experiments, reliable pipelines, readable results, and production-minded thinking.
 
-- 📫 How to reach me **modassirali66@gmail.com**
+```typescript
+const codehub001 = {
+    location: "India",
+    role: ["AI Engineer", "Machine Learning & Deep Learning Practitioner", "MLOps Enthusiast"],
+    currentFocus: [
+        "Face Recognition using ML & Deep Learning",
+        "Model evaluation and deployment",
+        "Structured DSA practice"
+    ],
+    learning: ["CRISP-DM", "SEMMA", "OSEM", "TDSP", "DataOps"],
+    openTo: ["AI/ML collaboration", "Data Analytics projects", "Computer Vision work"]
+};
+```
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/codehub01/](https://www.linkedin.com/in/codehub01/)
 
-- ⚡ Fun fact **"I'm a data enthusiast who loves finding patterns in chaos and turning data into stories. When I'm not analyzing numbers, you can find me exploring new coffee blends or getting lost in a good book."**
 
-### Blogs posts
+### Current Work
+
+| Focus | Details |
+|---|---|
+| **Building** | [Face Recognition using ML & Deep Learning](https://github.com/codehub001/Face-Recognition-using-ML-And-Deeplearning-) |
+| **Learning** | CRISP-DM, SEMMA, OSEM, TDSP, DataOps |
+| **Practicing** | [DSA Challenge Sheet](https://github.com/codehub001/CrackYourInternship) |
+| **Writing** | ML systems and project lessons on [Hashnode](https://hashnode.com/@codehub01) |
+| **Open to** | Collaboration in AI/ML, Data Analytics, and Computer Vision projects |
+
+
+
+### Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+- More posts coming soon at [hashnode.com/@codehub01](https://hashnode.com/@codehub01)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ahaan-the-scripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahaan-the-scripter" height="30" width="40" /></a>
-<a href="https://dev.to/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codehub01" height="30" width="40" /></a>
-<a href="https://twitter.com/ahaan010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahaan010" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codehub01" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17743378/modassir-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17743378/modassir-ali" height="30" width="40" /></a>
-<a href="https://codesandbox.com/codehub001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codehub001" height="30" width="40" /></a>
-<a href="https://kaggle.com/ahaan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahaan01" height="30" width="40" /></a>
-<a href="https://dribbble.com/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="codehub01" height="30" width="40" /></a>
-<a href="https://www.behance.net/ahaanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahaanr" height="30" width="40" /></a>
-<a href="https://hashnode.com/@codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@codehub01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codehub01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codehub01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codehub01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/raazlaptop001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raazlaptop001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aha_an007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aha_an007" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@raazlaptop001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@raazlaptop001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codehub01" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/codehub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="codehub01" height="30" width="40" /></a>
+
+
+### Connect with Me
+
+<p>
+  <a href="https://github.com/codehub001">
+    <img src="https://skillicons.dev/icons?i=github" height="38" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/codehub01/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn" />
+  </a>
+  <a href="https://hashnode.com/@codehub01">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="38" alt="Hashnode" />
+  </a>
+  <a href="mailto:modassirali66@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codehub001&show_icons=true&locale=en&layout=compact" alt="codehub001" /></p>
+### Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codehub001&show_icons=true&locale=en" alt="codehub001" /></p>
+![Python](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv)
+![DB](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
+![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,docker,git)
+![Dev](https://skillicons.dev/icons?i=vscode,html,css,js,react)
+ 
+Pandas · NumPy · Matplotlib · Seaborn · Tableau · Power BI
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codehub001&" alt="codehub001" /></p>
+
+### Areas of Expertise
+
+**Data Analysis & Engineering**
+Feature engineering, data cleaning, exploratory analysis, data wrangling, and pipeline design.
+
+**Machine Learning**
+Classical ML algorithms, model selection, validation, tuning, and explainability.
+
+**Deep Learning**
+Neural network workflows for computer vision and language-focused experiments.
+
+**MLOps & Deployment**
+Reproducible workflows, model packaging, cloud-based deployment, and production-minded monitoring.
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codehub001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codehub001&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+
+<br>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codehub001&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
+
+</div>
+
+
+<div align="center">
+
+*Let's connect and build something useful with data.*
+
+<br>
+
+<a href="mailto:modassirali66@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/codehub01/">LinkedIn</a> •
+<a href="https://github.com/codehub001">GitHub</a> •
+<a href="https://hashnode.com/@codehub01">Hashnode</a>
+
+</div>
